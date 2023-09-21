@@ -3,7 +3,9 @@
 
 
 ### For Full Product Documentation visit this Link [Documentation](https://github.com/MohammedHydr/ecommerce-assessment/blob/master/Technical%20Assesment%20Documentation.pdf)
-
+### Demo 
+[Video Recording](https://drive.google.com/file/d/1nX2sBWIah2YV_pmTOdj6xA3NiIXHEZFV/view?usp=sharing)
+The above show the full runnig project on my local machine as a testing environment
 
 ## CQRS
 ![image](https://github.com/MohammedHydr/ecommerce-assessment/assets/93540731/c34cf453-24c1-47a1-83f7-eb3822a8caa6)
